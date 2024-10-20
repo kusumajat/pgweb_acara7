@@ -4,7 +4,7 @@
 <body>
 
     <?php
-    $favcolor = "pink";
+    $favcolor = "merah";
 
     switch ($favcolor) {
         case "oren":

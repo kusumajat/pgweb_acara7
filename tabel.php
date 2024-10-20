@@ -8,7 +8,6 @@ $motor = array("Beat", "Vario", "Scoopy", "Nmax", "vespa");
 $warna = array("oren", "biru", "pink", "hitam", "putih");
 $cc = array(125, 150, 125, 165, 165);
 $harga = array(1000, 2000, 3000, 4000, 5000);
-$kolom = array("merk", "warna", "cc", "harga");
 
 echo "<h2>Tabel Motor</h2>";
 echo "<table border = '1'>";
